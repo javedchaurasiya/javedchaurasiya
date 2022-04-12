@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/anonymouslaunda" target="blank"><img src="https://img.shields.io/twitter/follow/anonymouslaunda?logo=twitter&style=for-the-badge" alt="anonymouslaunda" /></a> </p>
 
-- 🔭 I’m currently working on [Bruteforce](https://github.com/javedchaurasiya/bruteforce_frontend)
+- 🔭 I’m currently working on [react-chat-app(socket.io)](https://github.com/javedchaurasiya/chat-app)
 
-- 💬 Ask me about **react, nodejs, mongodb**
+- 💬 Ask me about **react.js, nodejs, mongodb**
 
 - 📫 How to reach me **ritu.shandilya@iiitg.ac.in**
 

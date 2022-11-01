@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ritu.shandilya@iiitg.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11gXyPdSTb3IQMSq2jE_lLgxFzn_u5ttm/view?usp=sharing](https://drive.google.com/file/d/11gXyPdSTb3IQMSq2jE_lLgxFzn_u5ttm/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1bujU5l16YNdMAGKVE--HgHgtfvOo0GPt/view?usp=share_link](My resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

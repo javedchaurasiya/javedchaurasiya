@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javedchaurasiya" alt="javedchaurasiya" /></a> </p>
 
-- 🌱 I’m currently learning **about redis, sockets...**
 
-- 💬 Ask me about **nodejs, graphql, postgresql, mongodb**
+- 💬 Ask me about **java, spring boot, nodejs, graphql, postgresql, mongodb**
 
 - 📫 How to reach me **ritu.shandilya@iiitg.ac.in**
 
